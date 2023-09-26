@@ -1,0 +1,7 @@
+1 10 100 Buenos-Aires
+2 20 200 Buenos-Aires
+3 30 300 Buenos-Aires
+1 40 400 Cordoba
+1 50 500 La-Rioja
+2 20 200 La-Rioja
+1 100 1000 Tierra-Del-Fuego

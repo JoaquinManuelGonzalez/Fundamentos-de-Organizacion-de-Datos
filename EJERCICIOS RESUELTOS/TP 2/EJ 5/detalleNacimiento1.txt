@@ -1,0 +1,24 @@
+Joaquin
+Gonzalez
+1 1 1 1 La_Plata
+1 1 1
+Roxana
+Maldini
+Oscar
+Gonzalez
+Facundo
+Gonzalez
+2 2 2 2 La_Plata
+2 2 2
+Roxana
+Maldini
+Oscar
+Gonzalez
+Milena
+Gonzalez
+3 3 3 3 La_Plata
+3 3 3
+Roxana
+Maldini
+Oscar
+Gonzalez

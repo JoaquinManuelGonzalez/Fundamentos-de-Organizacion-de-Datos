@@ -1,0 +1,7 @@
+10 100 Buenos-Aires
+20 200 Cordoba
+30 300 Jujuy
+40 400 La-Pampa
+50 500 La-Rioja
+60 600 Rio-Negro
+70 700 Tierra-Del-Fuego
