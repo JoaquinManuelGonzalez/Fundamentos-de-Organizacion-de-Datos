@@ -1,6 +1,0 @@
-1 10 10 Cordoba
-2 200 2000 Cordoba
-1 1000 1000 Jujuy
-3 30 3 La-Pampa
-3 40 40 La-Rioja
-1 400 4000 Rio-Negro
