@@ -1,0 +1,30 @@
+1 10 100.00 rojo
+facha
+remera
+2 20 200.00 verde
+facha
+buzo
+3 30 300.00 azul
+facha
+pantalon
+5 50 500.00 violeta
+facha
+remera
+4 40 400.00 negro
+facha
+buzo
+10 100 1000.00 blanco
+facha
+pantalon
+6 60 600.00 celeste
+facha
+remera
+7 70 700.00 gris
+facha
+buzo
+9 90 900.00 amarillo
+facha
+pantalon
+8 80 800.00 naranja
+facha
+remera

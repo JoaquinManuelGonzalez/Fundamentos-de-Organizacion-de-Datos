@@ -1,0 +1,15 @@
+ 1 terror
+ 118 novee1
+ 768 joa
+ 2 accion
+ 168 nove2
+ 1001 joa
+ 3 romance
+ 171 nove3
+ 843 joa
+ 4 suspenso
+ 169 nove4
+ 762 joa
+ 5 terror
+ 124 nove5
+ 593 joa
