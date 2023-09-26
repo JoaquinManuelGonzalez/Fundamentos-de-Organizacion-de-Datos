@@ -1,0 +1,55 @@
+ Joaquin
+ Gonzalez
+ 0 1 1 1 1 1 1  La_Plata 934 1100  La_Plata
+ Roxana
+ Maldini
+ Oscar
+ Gonzalez
+ TRUE
+ Facundo
+ Gonzalez
+ 0 2 2 2 2 2 2  La_Plata 2044 2200  La_Plata
+ Roxana
+ Maldini
+ Oscar
+ Gonzalez
+ TRUE
+ Milena
+ Gonzalez
+ 0 3 3 3 3 3 3  La_Plata 3055 2300  La_Plata
+ Roxana
+ Maldini
+ Oscar
+ Gonzalez
+ TRUE
+ Roxana
+ Maldini
+ 0 4 4 4 4 4 4  La_Plata 3066 4400  Paraguay
+ Susana
+ Colombo
+ Oscar
+ Maldini
+ TRUE
+ Oscar
+ Gonzalez
+ 0 5 5 5 5 5 5  La_Plata 2034 5500  El_Campo
+ Maria
+ Iacobucci
+ Oscar
+ Gonzalez
+ TRUE
+ Pancha
+ Gonzalez
+ 0 6 6 6 6 6 6  La_Plata 1634 6600  La_Plata
+ Milena
+ Gonzalez
+ Joaquin
+ Gonzalez
+ TRUE
+ Sira
+ Gonzalez
+ 0 7 7 7 7 7 7  La_Plata 1634 6600  La_Plata
+ Milagros
+ Arias
+ Joaquin
+ Gonzal
